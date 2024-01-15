@@ -1,4 +1,9 @@
 git clone
 git add,reset => stage area
-git commit => to pass to local repo 
+git commit => to pass to local repo
+
+git branch 
+git remote
+git push
+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 
 
