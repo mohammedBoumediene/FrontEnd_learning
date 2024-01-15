@@ -5,5 +5,7 @@ git commit => to pass to local repo
 git branch 
 git remote
 git push
-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 
+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
+
+git pull "repo" => fetch and merge 
 
