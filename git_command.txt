@@ -1,0 +1,4 @@
+git clone
+git add,reset => stage area
+git commit => to pass to local repo 
+
